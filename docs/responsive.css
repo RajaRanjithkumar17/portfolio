@@ -1,0 +1,36 @@
+@media(max-width:576px){
+    *{
+        box-sizing: border-box;
+    }
+    .banner-text {
+        border-radius: 0 0 ;
+        margin-bottom: 10px;
+        
+    }
+    .manu-list > ul > li {
+        margin-left: -300px;
+    }
+    .manu-list > ul > li >button{
+        margin-left: -300px;
+    }
+    .manu-list li{
+        justify-content:start;
+    }
+    .follow{
+        margin: 15px 0;
+    }
+    .ache,.ache2,.ach{
+        margin: 5px 60px;
+    }
+    .offer11{
+        margin: 5px 20px;
+        padding: 20px;
+
+    }
+    .price1{
+        margin: 15px 25px;
+    }
+    .footpd{
+        margin-bottom: 25px;
+    }
+}
