@@ -115,12 +115,14 @@
     background-color: rgb(111, 165, 235);
     border-radius: 0 0 150px ;
     
+    
 }
 .txt{
     justify-content: center;
     align-items: center;
     
    padding-top: 25%;
+   padding-left: 25%;
     /* padding-left: 25%; */
 }
 .txt button{
