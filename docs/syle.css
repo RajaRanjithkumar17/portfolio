@@ -852,6 +852,7 @@ margin-bottom: 40px;
 .blogs img{
     width: 100%;
     z-index: -2;
+    position: relative;
 
 }
 .blogbody{
