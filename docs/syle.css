@@ -15,7 +15,7 @@
 .nav-item button{
     width: 100px;
     height: 30px;
-    padding: 5px;
+    /* padding: 5px; */
     color: rgb(48, 106, 254); 
     box-shadow: 1px 2px 15px 15px solid rgb(247, 239, 239);
     border: 1px solid rgb(247, 239, 239);
@@ -188,6 +188,7 @@
     
     
 }
+
 .follow h5{
     padding-top: 10px;
 }

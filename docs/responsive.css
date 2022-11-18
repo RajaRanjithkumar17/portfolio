@@ -5,7 +5,11 @@
     .banner-text {
         border-radius: 0 0 ;
         margin-bottom: 10px;
+
         
+    }
+    .txt{
+        padding: 10px;
     }
     .manu-list > ul > li {
         margin-left: -300px;
